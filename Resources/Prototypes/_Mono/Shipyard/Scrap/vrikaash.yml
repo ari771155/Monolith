@@ -3,9 +3,9 @@
 # Discord: Catshley
 
 # Shuttle Notes: This ship is designed to be as vox-like as possible, I wish i could've made it biomechanical but this is the best i can do with what we have.
-
+#
 - type: vessel
-  id: vrikaash
+  id: Vrikaash
   parent: BaseVessel
   name: VOX-Vrikaash
   description: A warship produced by a Vox Arkship using debris from a battlefield. this vessel is highly unconventional, and filled with a nitrogen atmosphere. While Vox typically treat their vessels as their Kin, this one lacks any of the organic components, as it was built to disposable. Unlike most vessels with a sensible weapons layout or doctrine, the Vrikaash places almost all of its weapons and armor on the starboard side, focusing firepower in standoff engagements.
@@ -18,7 +18,6 @@
   class:
   - Destroyer
   - Scrapyard
-
   engine:
   - Plasma
 
