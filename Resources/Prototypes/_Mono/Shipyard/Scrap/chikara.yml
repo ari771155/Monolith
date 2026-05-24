@@ -16,7 +16,7 @@
   shuttlePath: /Maps/_Mono/Shuttles/Scrap/chikara.yml
   guidebookPage: Null
   class:
-  - Persuit
+  - Pursuit
   - Scrapyard
   engine:
   - Plasma
